@@ -1,0 +1,16 @@
+ul{
+    display: flex;
+}
+li{
+    list-style: none;
+}
+#img-show{
+    height: 400px;
+    width: 400px;
+}
+.center{
+    text-align: center;
+}
+.ml-20{
+    margin-left: 330px;
+}
